@@ -259,7 +259,11 @@ Potential observability components include:
 Clone the repository:
 
 ```bash
-git clone https://github.com/projectAcetylcholine/microsoft-azure-options-for-hosting-ai-agents-mcp-servers
+
+# Clone the Git Repository
+git clone https://github.com/projectAcetylcholine/microsoft-azure-options-for-hosting-ai-agents-mcp-servers.git
+
+# Navigate to the folder you just cloned
 cd microsoft-azure-options-for-hosting-ai-agents-mcp-servers
 ```
 
